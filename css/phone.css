@@ -1,0 +1,25 @@
+@media only screen and (max-width:808px){
+#services .boxes{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#navbar{
+    flex-direction: column;
+    width: 665px;
+}
+#navbar ul li a{
+    font-size: 1.5rem;
+}
+#home::before{
+    width:701px;
+}
+#home{
+    flex-direction: column;
+}
+#home p 
+{
+    font-size:0.8rem;
+    width:491px;
+}
+}
